@@ -9,3 +9,15 @@ Results: We propose to address this problem by estimating principal components f
 ![Differential PCA Selects Oncogenes](https://github.com/blengerich/drpca/blob/master/fig/oncogene.png?raw=true "Oncogene Selection")
 
 This repository contains code for the experiments described in the paper. Each dataset has a main Jupyter notebook titled `test_$cancer.ipynb` which generates the results stored in the corresponding subdirectory.
+
+More information is available in the [manuscript](https://www.biorxiv.org/content/10.1101/545798v1.abstract): 
+```
+@article{lengerich2019differential,
+  title={Differential Principal Components Reveal Patterns of Differentiation in Case/Control Studies},
+  author={Lengerich, Benjamin J and Xing, Eric P},
+  journal={bioRxiv},
+  pages={545798},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
